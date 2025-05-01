@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaraNoqueli
+- 👋 Hi, I’m @LaraNochelli
 - 👀 I’m interested in new opportunities
 - 🌱 experience with C#, CSS, HTML, JS
 - 📫 How to reach me : E-mail: laranoqueli@gmail.com 
